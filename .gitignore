@@ -1,0 +1,6 @@
+echo venv/>>.gitignore
+echo data/videos/>>.gitignore
+echo output/>>.gitignore
+echo __pycache__/>>.gitignore
+echo .pytest_cache/>>.gitignore
+echo *.mp4>>.gitignore
